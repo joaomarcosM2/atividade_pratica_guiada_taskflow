@@ -15,3 +15,7 @@ Route::get('/sobre', [SobreController::class, 'index']);
 Route::get('/teste', function () {
 return "Funcionando!";
 });
+
+
+# use App\Http\Controllers\HomeController;
+# Route::get('/', [HomeController::class, 'index']);
