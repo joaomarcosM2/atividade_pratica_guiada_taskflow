@@ -1,1 +1,3 @@
+criando o banco de dados taskflow 
 pasta taskflow configurado e servidor subindo com sucesso!
+configuração do resources/views e do controllers/sobre executada com sucesso! 
